@@ -24,6 +24,7 @@
     - `nanoid`
     - `winston`
     - `jsonwebtoken`
+    - `auth-middleware-jwt`
     - Database
         - `mysql`
         - Driver
